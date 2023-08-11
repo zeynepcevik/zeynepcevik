@@ -1,7 +1,6 @@
 <h1 align="center">Hi, I'm Zeynep </h1>
 <h3 align="center">I am a computer engineering student.</h3>
-
-I am a person who likes to learn and share what I have learned.
+I started with coding using Java, and then I became interested in machine learning and learned Python. Currently, I am working on frontend development. I enjoy trying different fields and constantly learning.
 
 How to reach me: z.ceviksnp@gmail.com
 
