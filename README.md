@@ -1,11 +1,9 @@
-<h1 align="center">Hi, I'm Zeynep 👋</h1>
-<h3 align="center">a computer engineering student in İstanbul</h3>
+<h1 align="center">Hi, I'm Zeynep </h1>
+<h3 align="center">I am a computer engineering student.</h3>
 
-- 💻 I use Java and C programming languages
+I am a person who likes to learn and share what I have learned.
 
-- 🌱 I’m currently learning Python
-
-- 🔗 How to reach me z.ceviksnp@gmail.com
+How to reach me: z.ceviksnp@gmail.com
 
 <h3 align="left">Tech stack:</h3>
 <p align="left">
