@@ -2,6 +2,7 @@
 <h3 align="center">I am a computer engineering student.</h3>
 I started with coding using Java, and then I became interested in machine learning and learned Python. Currently, I am working on frontend development. I enjoy trying different fields and constantly learning.
 
+
 How to reach me: z.ceviksnp@gmail.com
 
 <h3 align="left">Tech stack:</h3>
