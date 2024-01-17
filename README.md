@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Zeynep </h1>
-<h3 align="center">I am a computer engineering student.</h3>
+<h3 align="center">I am a computer engineering student</h3>
 I started coding using Java and then I became interested in machine learning and learnt Python. I am currently working on frontend development. I enjoy trying different areas and constantly learning.
 
 
