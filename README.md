@@ -1,6 +1,6 @@
 <h1 align="center">Hi, I'm Zeynep </h1>
 <h3 align="center">I am a computer engineering student</h3>
-I started coding using Java and then I became interested in machine learning and learnt Python. I am currently working on Back End development with Java Spring Boot. I enjoy trying different areas and constantly learning.
+I'm a computer engineering student who started coding with Java and developed a strong interest in Back End development. Currently, I'm working with Spring Boot and constantly exploring ways to improve my skills and build better systems.
 <br></br>
 How to reach me: dev.zeynepcevik@gmail.com   
 
