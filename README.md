@@ -1,6 +1,6 @@
 <h1 align="center">Hi, I'm Zeynep </h1>
-<h3 align="center">I am a computer engineering student</h3>
-I'm a computer engineering student who started coding with Java and developed a strong interest in Back End development. Currently, I'm working with Spring Boot and constantly exploring ways to improve my skills and build better systems.
+<h3 align="center">I am a Software Engineer</h3>
+I'm a computer engineer who started coding with Java and developed a strong interest in Back End development. Currently, I'm working with Spring Boot and constantly exploring ways to improve my skills and build better systems. 
 <br></br>
 How to reach me: dev.zeynepcevik@gmail.com   
 
